@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi, I'm Tomek 👋
 
-<!--
-**cobyl/cobyl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend software engineer, building business systems that need to stay reliable as they grow.
 
-Here are some ideas to get you started:
+### About me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🇵🇱 Polish, splitting my life between Poland and Indonesia 🇮🇩
+- 🗣️ Polish · English · Indonesian
+- 🚴 When I'm not coding: cycling, running, traveling
+
+### Get in touch
+
+- LinkedIn: [https://www.linkedin.com/in/tomaszkobylinski/](https://www.linkedin.com/in/tomaszkobylinski/)
