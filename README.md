@@ -1,4 +1,4 @@
-# Hi, I'm Tomek 👋
+# Hi, I'm Tomek
 
 Backend software engineer, building business systems that need to stay reliable as they grow.
 
