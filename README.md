@@ -4,9 +4,8 @@ Backend software engineer, building business systems that need to stay reliable 
 
 ### About me
 
-- 🇵🇱 Polish, splitting my life between Poland and Indonesia 🇮🇩
-- 🗣️ Polish · English · Indonesian
-- 🚴 When I'm not coding: cycling, running, traveling
+- Polish (native) / English / Indonesian (basic+)
+- Cycling, running, traveling
 
 ### Get in touch
 
